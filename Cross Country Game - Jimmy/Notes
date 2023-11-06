@@ -1,0 +1,17 @@
+The font for the victory and failure messages is from:
+flamingtext.com
+Font: crillee
+Size: 72
+Color: goldfoil128
+Background: transparent
+
+Level Select Menu text is:
+cooltext.com
+Fonts: iText, easy, supernova
+//make a exe file to open the game, thumbnail can be mc
+//make main character
+
+Background Info:
+Runner 1's head starts at 200 pixels down
+Each runner is 50 pixels tall
+The max number of runners in any level is 5
